@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+div {
+  border: 1px solid white;
+}
+
+li {
+  font-size: larger;
+}
